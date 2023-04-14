@@ -161,6 +161,7 @@ img {
 .nav-links.active {
   display: block;
 }
+/* Banner Section */
 .banner {
   padding: 90px 15px;
   background-color: #923cb5;
@@ -202,6 +203,7 @@ img {
     font-size: 26px;
   }
 }
+/* About Section */
 #about .content h2 {
   text-align: center;
 }
@@ -249,6 +251,7 @@ img {
         -ms-grid-row-align: stretch;
         align-self: stretch;
   }
+  /* Skills Section */
 }
 #skill {
   background-color: #7f53ac;
@@ -315,6 +318,7 @@ img {
   max-width: 100px;
   height: auto;
 }
+/* Portfolio Section */
 #portfolio {
   z-index: 1;
   background-color: #923cb5;
@@ -369,6 +373,7 @@ img {
 #portfolio .portfolio--content .item:hover > img {
   opacity: 0.3;
 }
+/* Contact Section */
 #contact .contact-detail, #contact address {
   max-width: 800px;
   display: block;
@@ -380,6 +385,7 @@ img {
 #contact address a {
   text-decoration: none;
 }
+/* Footer Section */
 .site-footer {
   background-color: #222;
   padding: 90px 15px 30px;
